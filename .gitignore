@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-dataset/
-*.h5
-*.keras
-logs/
-.DS_Store
-Thumbs.db
